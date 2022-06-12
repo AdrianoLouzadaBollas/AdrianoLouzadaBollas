@@ -1,16 +1,10 @@
-## Olá, seja bem vindo(a) ao meu perfil no github.
-
-- 🔭 Sou professor em uma Faculdade onde leciono disciplinas de Tecnologia e Matemática
-- 🌱 Estudo PHP e Adianti Framework
-- 📫 meu contato: adriano.louzadabollas@gmail.com 
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/AdrianoLouzadaBollas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoLouzadaBollas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoLouzadaBollas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
